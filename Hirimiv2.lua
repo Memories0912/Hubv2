@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Script Updated!, Please Check New Link")
+return "Hirimi-Xz092Welcome"
